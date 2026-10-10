@@ -11,7 +11,7 @@ Explore, find keys, manage your flashlight batteries and survive.
 ![Platform](https://img.shields.io/badge/Platform-Windows%2064--bit-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Genre](https://img.shields.io/badge/Genre-Horror-8B0000?style=for-the-badge)
 
-> **Play it:** [Locked In: Horror on itch.io](TODO_ITCH_LINK) · [Latest release](TODO_RELEASE_LINK)
+> **Play it:** [Locked In: Horror on itch.io](TODO_ITCH_LINK) · [Latest release](https://github.com/kaandevs-ops/locked-in-horror/releases/latest)
 >
 > This repository is a showcase. The Unreal project files are not published, see [About this repository](#-about-this-repository).
 
@@ -53,7 +53,7 @@ Explore, find keys, manage your flashlight batteries and survive.
 
 ## 📥 Download
 
-Grab the Windows build from **[itch.io](TODO_ITCH_LINK)** or the **[Releases page](TODO_RELEASE_LINK)**.
+Grab the Windows build from **[itch.io](TODO_ITCH_LINK)** or the **[Releases page](https://github.com/kaandevs-ops/locked-in-horror/releases/latest)**.
 
 1. Download the `.zip` file.
 2. Extract it to any folder.
