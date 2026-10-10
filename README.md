@@ -24,10 +24,6 @@ Explore, find keys, manage your flashlight batteries and survive.
 | ![Flooded room](docs/screenshots/03_flooded_room.jpg)<br>**Flooded room**: something went wrong here | ![Library](docs/screenshots/04_library.jpg)<br>**Library**: shelves to hide behind |
 | ![Kids room](docs/screenshots/05_kids_room.jpg)<br>**Kids room**: toys left behind | ![Mansion hallway](docs/screenshots/06_mansion_hallway.jpg)<br>**Mansion hallway**: peeling wallpaper, creaking floor |
 
----------------------------------------- | ---------------------------------------- |
-| ![Screenshot 3](docs/screenshots/03.png) | ![Screenshot 4](docs/screenshots/04.png) |
-| ![Screenshot 5](docs/screenshots/05.png) | ![Screenshot 6](docs/screenshots/06.png) |
-
 ---
 
 ## 🚀 Features
@@ -71,7 +67,7 @@ Grab the Windows build from **[itch.io](TODO_ITCH_LINK)** or the **[Releases pag
 | CPU       | Mid-range quad-core or better                 |
 | GPU       | Mid-range dedicated GPU, DirectX 11 capable   |
 | RAM       | 16 GB                                         |
-| Storage   | 6 GB free space                       |
+| Storage   | 6 GB free space                               |
 
 If the game does not start, install the latest [Visual C++ Redistributable](https://learn.microsoft.com/cpp/windows/latest-supported-vc-redist).
 
@@ -96,7 +92,9 @@ The source project is not published because it relies on licensed third-party as
 
 Copyright 2026 kaandevs-ops
 
-All rights reserved for the game's original content (design and custom scripting). Third-party assets belong to their respective authors and are used under their own licenses.
+The text of this repository (README and documentation) is licensed under the **Apache License 2.0**, see [LICENSE](LICENSE).
+
+The game *Locked In: Horror*, its screenshots and its banner are not covered by that license: all rights reserved. Third-party assets shown in them belong to their respective authors and are used under their own licenses.
 
 ---
 
